@@ -1,6 +1,6 @@
 ---
 title: Currency
-weight: 1
+weight: 2
 ---
 
 # Markdown syntax guide
