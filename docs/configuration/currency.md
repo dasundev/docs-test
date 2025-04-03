@@ -1,3 +1,8 @@
+---
+title: Currency
+weight: 1
+---
+
 # Markdown syntax guide
 
 ## Headers

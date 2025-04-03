@@ -1,3 +1,8 @@
+---
+title: Quickstart
+weight: 1
+---
+
 # Markdown syntax guide
 
 ## Headers
