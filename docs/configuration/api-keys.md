@@ -1,6 +1,6 @@
 ---
 title: Api Keys
-weight: 1
+weight: 2
 ---
 
 # Markdown syntax guide
