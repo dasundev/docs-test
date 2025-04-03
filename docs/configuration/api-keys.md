@@ -1,9 +1,9 @@
 ---
 title: Api Keys
-weight: 2
+weight: 1
 ---
 
-# Markdown syntax guide
+# API Keys
 
 ## Headers
 
